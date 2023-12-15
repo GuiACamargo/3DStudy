@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "dev": "vite --host",
+        "build": "vite build",
+        "deploy": "vercel --prod"
+    },
+    "dependencies": {
+        "lil-gui": "^0.19.1",
+        "three": "^0.159.0",
+        "vercel": "^32.7.2",
+        "vite": "^5.0.8"
+    }
+}
